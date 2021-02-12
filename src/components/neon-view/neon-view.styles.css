@@ -38,36 +38,43 @@
 
 .section .container h2 span.text2 {
     animation-delay: -0.5s;
+    -webkit-filter: hue-rotate(225deg);
     filter: hue-rotate(225deg)
 }
 
 .section .container h2 span.text3 {
     animation-delay: -0.5s;
+    -webkit-filter: hue-rotate(225deg);
     filter: hue-rotate(225deg)
 }
 
 .section .container h2 span.text4 {
     animation-delay: -0.7s;
+    -webkit-filter:hue-rotate(180deg);
     filter: hue-rotate(180deg)
 }
 
 .section .container h2 span.text5 {
     animation-delay: -1s;
+    -webkit-filter:hue-rotate(200deg);
     filter: hue-rotate(200deg)
 }
 
 .section .container h2 span.text6 {
     animation-delay: -1.2s;
+    -webkit-filter:hue-rotate(190deg);
     filter: hue-rotate(190deg)
 }
 
 .section .container h2 span.text7 {
     animation-delay: -1.4s;
+    -webkit-filter:hue-rotate(140deg);
     filter: hue-rotate(140deg)
 }
 
 .section .container h2 span.text8 {
     animation-delay: -0.1s;
+    -webkit-filter:hue-rotate(210deg);
     filter: hue-rotate(210deg)
 }
 
